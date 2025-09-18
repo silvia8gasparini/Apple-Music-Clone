@@ -42,7 +42,6 @@ function MyNavbar() {
               className="d-flex align-items-center gap-2"
             >
               <i className="bi bi-person-fill"></i> Accedi
-              {/* Ho avuto problemi con l'import delle icone di bootstrap. Non sono riuscita a capire il motivo, quindi le ho inserite così. I'm so sorry :( */}
             </Button>
           </div>
 
@@ -67,7 +66,7 @@ function MyNavbar() {
                 className="bg-secondary d-flex justify-content-center align-items-center rounded mx-5"
                 style={{ width: "400px", height: "50px" }}
               >
-                <img src="/public/logos/apple.svg" alt="apple" width="24" />
+                <img src="/logos/apple.svg" alt="apple" width="24" />
               </div>
 
               <i className="bi bi-volume-down text-secondary"></i>
