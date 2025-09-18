@@ -18,7 +18,7 @@ const NewReleases = () => {
   };
 
   useEffect(() => {
-    fetch("https://striveschool-api.herokuapp.com/api/deezer/search?q=ramones")
+    fetch("https://striveschool-api.herokuapp.com/api/deezer/search?q=atvance")
       .then((res) => {
         if (!res.ok) throw new Error("Errore nel caricamento dei dati");
         return res.json();
