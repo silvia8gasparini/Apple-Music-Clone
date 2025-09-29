@@ -27,12 +27,17 @@ function MyNavbar() {
             className="mx-auto d-lg-none order-2"
             onClick={toggleSidebar}
             role="button"
+            style={{
+              position: "absolute",
+              left: "50%",
+              transform: "translateX(-50%)",
+            }}
           >
             <img
               src="/logos/music.svg"
               alt="logo"
               width="100"
-              className="d-inline-block align-top"
+              className="d-inline-block align-top justify-content-center"
             />
           </Navbar.Brand>
 
