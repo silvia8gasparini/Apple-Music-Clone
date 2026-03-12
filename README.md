@@ -1,12 +1,64 @@
-# React + Vite
+# 🎵 Apple Music Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🇮🇹 Italiano
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Un clone responsive di Apple Music, realizzato come progetto finale del modulo React durante il bootcamp Full-Stack di EPICODE.
 
-## Expanding the ESLint configuration
+L'obiettivo era replicare fedelmente l'interfaccia di Apple Music, integrando contenuti dinamici tramite API esterne e implementando una gestione dello stato globale con Redux.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Funzionalità
+
+- **Interfaccia responsive** — layout fedele ad Apple Music, accessibile da qualsiasi dispositivo
+- **Nuove uscite** — contenuti musicali recuperati tramite Deezer API e visualizzati nella sezione dedicata
+- **Sezione Preferiti** — aggiunta e rimozione di brani dai preferiti gestita con Redux store
+- **Componenti riutilizzabili** — card musicali, sezioni e voci di menu costruite come componenti modulari
+- **Dark mode** — interfaccia fedele all'estetica Apple
+
+### Tecnologie
+
+- React + Vite
+- Redux
+- Bootstrap
+- Deezer API
+
+### Repository e Deploy
+
+- 🔗 [GitHub](#)
+- 🚀 [Live Demo](#)
+
+---
+
+## 🇬🇧 English
+
+A responsive Apple Music clone, built as the final project of the React module during the EPICODE Full-Stack bootcamp.
+
+The goal was to faithfully replicate the Apple Music interface, integrating dynamic content via external APIs and implementing global state management with Redux.
+
+### Features
+
+- **Responsive interface** — layout faithful to Apple Music, accessible on any device
+- **New releases** — music content fetched via Deezer API and displayed in the dedicated section
+- **Favourites section** — add and remove tracks from favourites managed via Redux store
+- **Reusable components** — music cards, sections and menu items built as modular components
+- **Dark mode** — interface faithful to Apple's visual aesthetic
+
+### Tech Stack
+
+- React + Vite
+- Redux
+- Bootstrap
+- Deezer API
+
+### Repository & Deployment
+
+- 🔗 [GitHub](https://github.com/silvia8gasparini/Apple-Music-Clone)
+- 🚀 [Live Demo](https://apple-music-clone-lime.vercel.app/)
+
+---
+
+## Autrice / Author
+
+**Silvia Gasparini** — Full-Stack Developer
+[LinkedIn](https://linkedin.com/in/silviagasparini8) · [GitHub](https://github.com/silvia8gasparini)
