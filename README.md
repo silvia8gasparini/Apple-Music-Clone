@@ -25,8 +25,8 @@ L'obiettivo era replicare fedelmente l'interfaccia di Apple Music, integrando co
 
 ### Repository e Deploy
 
-- 🔗 [GitHub](#)
-- 🚀 [Live Demo](#)
+- 🔗 [GitHub](https://github.com/silvia8gasparini/Apple-Music-Clone)
+- 🚀 [Live Demo](https://apple-music-clone-lime.vercel.app/)
 
 ---
 
